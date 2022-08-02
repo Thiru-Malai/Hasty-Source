@@ -1,4 +1,4 @@
 # sample-web
 
 
-Haste Source
+Hasty Source
